@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\RAMADHANI\\alientest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\alientest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\alientest.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\RAMADHANI\\alientest\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\RAMADHANI\\alientest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\RAMADHANI\\alientest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\RAMADHANI\\alientest\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.alientest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.alientest.props",
+      "PackagePath": "build\\alientest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.alientest.props",
+      "PackagePath": "buildMultiTargeting\\alientest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.alientest.props",
+      "PackagePath": "buildTransitive\\alientest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
